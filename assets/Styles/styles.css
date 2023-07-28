@@ -1,0 +1,56 @@
+/* /* Selector universal 
+* {
+  background-color: cornflowerblue;
+} */
+h1 {
+  text-align: center;
+  margin: 0;
+}
+
+/* div {
+     background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.gob.mx%2Fcms%2Fuploads%2Farticle%2Fmain_image%2F36840%2Fcacahuate1.jpg&tbnid=rVNtknQxxChx2M&vet=12ahUKEwiaxMSP76-AAxXOE94AHSZrAHQQMygPegUIARDSAg..i&imgrefurl=https%3A%2F%2Fwww.gob.mx%2Fagricultura%2Fes%2Farticulos%2F5-razones-para-consumir-cacahuate&docid=OgsBgqGN-5JglM&w=720&h=392&q=cacahuates%20imagenes&ved=2ahUKEwiaxMSP76-AAxXOE94AHSZrAHQQMygPegUIARDSAg");
+} */
+
+div:hover {
+  background-color: orange;
+}
+a:visited {
+  color: green;
+}
+p::first-letter {
+    color: red;
+}
+p::first-line {
+  color: purple;
+}
+
+/* selector de tipo o etiqueta */
+h1, 
+h2, 
+h3 {
+  font-family: 'Handjet', cursive;
+}
+
+/* h2 {
+  color: brown;
+} */
+
+/* selector de clase */
+.listas-de-favoritos {
+  color:hotpink;
+}
+
+/* selector de id */
+#listas-chikistrikis {
+  color: blue;
+}
+
+h1 {
+  text-align: center;
+}
+/* asi se comenta en CSS*/
+
+
+h3 {
+  font-family: Arial,Helvetica. sana-serif;
+}

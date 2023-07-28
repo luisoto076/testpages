@@ -1,0 +1,14 @@
+
+:any-link {
+    color:midnightblue;
+}
+
+
+p {
+    text-align: left;
+    font-size: medium;
+}
+
+:any-link.b {
+   color:aqua;
+}
